@@ -1,0 +1,3 @@
+rootProject.name = 'pocket_appraiser_4901'
+
+include ':app'

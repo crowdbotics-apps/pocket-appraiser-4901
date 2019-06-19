@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pocket_appraiser_4901.wsgi:application
